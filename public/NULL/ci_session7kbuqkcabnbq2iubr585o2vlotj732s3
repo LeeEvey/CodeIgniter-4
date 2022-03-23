@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1631834974;_ci_previous_url|s:22:"http://localhost:8080/";_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:2:{s:11:"nama_member";s:13:"Suharto Yandi";s:8:"password";s:6:"234567";}}__ci_vars|a:2:{s:13:"_ci_old_input";s:3:"old";s:5:"error";s:3:"old";}error|s:16:"Anda Bukan Admin";

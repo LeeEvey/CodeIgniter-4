@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1631796727;_ci_previous_url|s:22:"http://localhost:8080/";_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:3:{s:4:"role";s:5:"admin";s:11:"nama_member";s:21:"Delviani Permata Sari";s:8:"password";s:6:"345678";}}__ci_vars|a:2:{s:13:"_ci_old_input";s:3:"old";s:5:"error";s:3:"old";}error|s:16:"Anda Bukan Admin";
